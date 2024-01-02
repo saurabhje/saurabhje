@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Code-Board, a collaborative <br>      code snippet sharing platform.<br>👯 I’m looking to collaborate on web development<br>      technologies<br>🤝 I’m looking for help with nextJs and web3 technologies<br>🌱 I’m currently learning web3 technologies<br>💬 Ask me about MERN stack<br>⚡ Fun fact : A simple minimalistics web design is more<br>       aesthetically pleasing than a heavily designed one
+🔭 I’m currently working on Code-Board, a collaborative <br>      code snippet sharing platform.<br>👯 I’m looking to collaborate on web development<br>      technologies<br>🤝 I’m looking for help with nextJs and web3 technologies<br>🌱 I’m currently learning web3 technologies<br>💬 Ask me about MERN stack<br>⚡ Fun fact : A simple minimalistics web design is more<br>       aesthetically pleasing than a heavily designed one and beside it functions better.
 
 
 ## 🌐 Socials:
