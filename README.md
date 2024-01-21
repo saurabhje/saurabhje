@@ -34,5 +34,4 @@ Where $\Delta x$ represents efficiency and $\Delta p$ represents meeting deadlin
 If you're interested in learning more about LaTeX mathematical expressions, check out this helpful resource:
 
 [MathJax Basic Tutorial and Quick Reference](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
-
-Hope you enjoy reading my posts! Feel free to drop a comment or suggest a topic you'd like me to cover. Happy learning! 🚀
+> Happy learning! 🚀
