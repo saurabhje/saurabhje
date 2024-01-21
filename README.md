@@ -8,8 +8,8 @@ I'm a curious individual with a passion for problem-solving and a flair for crea
 
 Feel free to reach out to me through the following channels:
 
-> [Saurabhje](https://saurabhje.vercel.app/) - My personal blog where I ramble about various topics, including tech, AI, and life in general.<br>
-> [LinkedIn](https://www.linkedin.com/in/saurabhje/) - Let's connect professionally!
+1. > [Saurabhje](https://saurabhje.vercel.app/) - My personal blog where I ramble about various topics, including tech, AI, and life in general.
+2. > [LinkedIn](https://www.linkedin.com/in/saurabhje/) - Let's connect professionally!
 
 ### Inspiration
 
