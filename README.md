@@ -1,4 +1,4 @@
- Hi there! I'm Saurabh Je Singh, a sophomore majoring in Machine Learning Engineering. Welcome to my blog, where I share my experiences, challenges, and triumphs as a student in the field. I'm excited to connect with you and learn together! 😊
+ Hi there! I'm Saurabh Je Singh, a sophomore majoring in Machine Learning Engineering. 😊
 
 ### About Me
 
