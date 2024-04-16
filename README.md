@@ -1,9 +1,4 @@
  Hi there! I'm Saurabh Je Singh, a sophomore majoring in Machine Learning Engineering. 😊
-
-### About Me
-
-I'm a curious individual with a passion for problem-solving and a flair for creativity. When I'm not busy with academics, you can find me tinkering with web development projects or delving into the world of artificial intelligence. My long-term goal is to contribute meaningfully to the field of machine learning and help bridge the gap between theory and practice.
-
 ### Connect with Me
 
 Feel free to reach out to me through the following channels:
@@ -28,10 +23,3 @@ As someone fascinated by quantum computing, I've come up with a principle I like
 $$\Delta x \cdot \Delta p \geq h/2$$
 
 Where $\Delta x$ represents efficiency and $\Delta p$ represents meeting deadlines, this principle highlights the inherent trade-off between these two aspects in the context of quantum programming. Just as Heisenberg's uncertainty principle governs the behavior of subatomic particles, Je's Uncertainty Principle underscores the importance of balancing competing demands in software development. 🤔
-
-### LaTeX Mathematical Expressions
-
-If you're interested in learning more about LaTeX mathematical expressions, check out this helpful resource:
-
-[MathJax Basic Tutorial and Quick Reference](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
-> Happy learning! 🚀
