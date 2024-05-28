@@ -1,4 +1,4 @@
- Hi there! I'm Saurabh Je Singh, a CS undergrad currently interested in CLI, Web, SaaS development.😊
+ Hi there! I'm Saurabh Je Singh, a CS undergrad currently interested in CLI, Web, SaaS development and LLMs.😊
 ### Connect with Me
 
 Feel free to reach out to me through the following channels:
